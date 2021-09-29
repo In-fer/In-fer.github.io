@@ -79,6 +79,11 @@ td:first-child {
     width: 200px;
     height: 624px;
 }
+#contentth {
+    font-size: 150%;
+    background: #d2d0d2;
+    width: 900px;
+    height: 700px;
 #content {
     font-size: 150%;
     background: #d2d0d2;
