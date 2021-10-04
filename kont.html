@@ -20,17 +20,20 @@
         </ul>
     </div>
     <div id="content">
-        <form class="decor">
-            <div class="form-left-decoration"></div>
-            <div class="form-right-decoration"></div>
-            <div class="circle"></div>
-            <div class="form-inner">
-                <h3>Написать нам</h3>
-                <input type="text" placeholder="Username">
-                <input type="email" placeholder="Email">
-                <textarea placeholder="Сообщение..." rows="3"></textarea>
-                <input type="submit" value="Отправить">
-            </div>
+        <form action="action_page.php">
+        <div class="containerr">
+            <h2>Подпишитесь на нашу рассылку</h2>
+        </div>
+
+        <div class="containerr" style="background-color:white">
+            <input type="text" placeholder="Имя" name="name" required>
+            <input type="text" placeholder="Адрес электронной почты" name="mail" required>
+        </div>
+
+        <div class="containerr">
+            <input type="submit" value="Подписаться">
+        </div>
+    </form>
         </form>
     </div>
     <div id="footer">
