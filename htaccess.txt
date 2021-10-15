@@ -1,4 +1,3 @@
-.htaccess
 
 #начало
 Option +FollowSymLinks
