@@ -107,6 +107,7 @@ td:first-child {
 }
 #footer {
 background: #838283;
+margin: 60px auto;
 height: 180px;
 width: 900px;
 }
