@@ -4,6 +4,9 @@ body {
     font-family: Trebuchet MS, Arial, Times New Roman;
     font-size: 12px;
 }
+.ch{
+    list-style-type: none;
+}
 .logo-img{
     width: 200px;
 }
