@@ -100,15 +100,13 @@ td:first-child {
     width: 900px;
     height: 2110px;
 }
-.footer {
+.foter {
     background: #838283;
     height: 180px;
     width: 900px;
 }
-#footer {
+#foter {
 background: #838283;
-margin-left: 60px auto;
-margin-right: 60px auto;
 height: 180px;
 width: 900px;
 }
