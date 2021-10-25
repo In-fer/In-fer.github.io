@@ -105,6 +105,11 @@ td:first-child {
     height: 180px;
     width: 900px;
 }
+#footer {
+background: #838283;
+height: 180px;
+width: 900px;
+}
     * {
 
     /* Style the form element with a border around it */
