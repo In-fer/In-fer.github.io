@@ -4,6 +4,9 @@ body {
     font-family: Trebuchet MS, Arial, Times New Roman;
     font-size: 12px;
 }
+.yt {
+    padding-left: 19%;
+}
 .ch{
     list-style-type: none;
 }
