@@ -28,9 +28,11 @@ body {
 }
 .pkimg {
     width: 100%;
+        padding-left: 400%;
 }
 .pk_img {
     width: 13%;
+        padding-left: 55%;
 }
 .ch{
     list-style-type: none;
