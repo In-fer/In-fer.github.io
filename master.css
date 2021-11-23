@@ -27,7 +27,10 @@ body {
     display: flex;
 }
 .pkimg {
-    width: 20%;
+    width: 100%;
+}
+.pk_img {
+    width: 13%;
 }
 .ch{
     list-style-type: none;
