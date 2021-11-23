@@ -23,6 +23,12 @@ body {
     width:100%;
     height:40%;
 }
+.pk {
+    display: flex;
+}
+.pkimg {
+    width: 20%;
+}
 .ch{
     list-style-type: none;
 }
